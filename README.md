@@ -1,6 +1,6 @@
-# 5e Spellcards
+# D&D SpellCards
 
-5e Spellcards is a frontend web application designed as a gameplay tool for D&D players. It fetches data from the D&D 5e SRD API and displays it alongside custom visuals. Users can browse a list of spells, click on individual spells for more details, and add spells to a personal collection that is saved in local storage.
+D&D SpellCards is a frontend web application designed as a gameplay tool for D&D players. It fetches data from the D&D 5e SRD API and displays it alongside custom visuals. Users can browse a list of spells, click on individual spells for more details, and add spells to a personal collection that is saved in local storage.
 
 ## Technologies
 
